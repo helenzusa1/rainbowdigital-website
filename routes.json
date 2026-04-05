@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/(.*)",
+      "redirect": "https://rainbowdigital.ai/$1",
+      "statusCode": 301
+    }
+  ]
+}
